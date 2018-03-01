@@ -49,3 +49,7 @@ Description: Inserts user chosen text at the cursor position.
 Binding: insertUsr3Addin
 Interactive: false
 
+Name: Insert %$%
+Description: Inserts exposition pipe operator at the cursor position.
+Binding: insertExposition
+Interactive: false
